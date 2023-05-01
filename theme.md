@@ -4,7 +4,7 @@ will be relevant information to what the feature of the theme are, which files n
 ## Theme Features
 * Font: Arial or New Times Roman
 * Layout: Neat and Sectioned
-* * Navbar at top (alligned center or left)
+*  Navbar at top (alligned center or left)
 * Navbar under logo
 ## Design Decisions
 * Navbar at top (alligned center or left)
