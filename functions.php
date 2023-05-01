@@ -49,10 +49,11 @@ function ttcma_theme_setup() {
 	// This theme uses wp_nav_menu() in one location.
 	register_nav_menus(
 		array(
-			'menu-1' => esc_html__( 'Primary', 'ttcma-theme' ),
-		)
-	);
-
+            'primary-menu' => __( 'Primary Menu', 'mytheme' ),
+        )
+    );
+}
+add_action( 'after_setup_theme', 'mytheme_register_menus' );
 	/*
 		* Switch default core markup for search form, comment form, and comments
 		* to output valid HTML5.

@@ -967,3 +967,19 @@ textarea {
 	margin-right: auto;
 	margin-bottom: 1.5em;
 }
+
+.primary-menu {
+	/* add your styles here */
+}
+
+.primary-menu .sub-menu {
+	/* add your styles for submenus here */
+}
+
+.primary-menu li {
+	/* add your styles for menu items here */
+}
+
+.primary-menu a {
+	/* add your styles for menu item links here */
+}
