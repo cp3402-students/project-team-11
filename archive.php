@@ -1,6 +1,9 @@
 <?php
 /**
  * The template for displaying archive pages
+ * This includes posts that related to certain topic.
+ * This also includes certain custom posts.
+ * Overall this php is made to display certain categertios. 
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *

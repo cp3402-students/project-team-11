@@ -1,6 +1,7 @@
 <?php
 /**
- * The template for displaying all single posts
+ * The template for displaying all single posts 
+ * The single.php purpose is to display a single post.  
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
  *
