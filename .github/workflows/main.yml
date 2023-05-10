@@ -15,5 +15,5 @@ jobs:
         username: ${{ secrets.WP_USER }}
         password: ${{ secrets.WP_PASSWORD }}
         protocol: ftps        
-        server-dir: /site/wwwroot/wp-content/themes/project-team-11
+        server-dir: /site/wwwroot/wp-content/themes/project-team-11/
         # dry-run: true
