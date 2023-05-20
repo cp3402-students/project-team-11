@@ -658,6 +658,8 @@ textarea {
 	list-style: none;
 	margin: 0;
 	padding-left: 0;
+	position: relative;
+	z-index: 100;
 }
 
 .main-navigation ul ul {
