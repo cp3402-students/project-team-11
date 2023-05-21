@@ -14,4 +14,8 @@ will be relevant information to what the feature of the theme are, which files n
 ## Colours
 White, Blue and Yellow
 ## Files To be Edited
-* TBD
+* Style.css
+* header.php
+* footer.php
+* functions.php
+* etc.
